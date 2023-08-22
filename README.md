@@ -1,4 +1,4 @@
 # asr_tele
-Administracao de Sistemas de Redes Telematica
+Administracao de Serviços de Rede
 
 ## teste...#
